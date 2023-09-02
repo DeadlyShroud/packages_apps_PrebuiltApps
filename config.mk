@@ -1,4 +1,5 @@
 # Prebuilt Apps
 PRODUCT_PACKAGES += \
 		MiXplorer \
-		BlackHole
+		BlackHole \
+		AsusCalculator
